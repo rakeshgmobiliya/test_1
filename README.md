@@ -100,4 +100,7 @@ Now we can for the deployment of webapp on this cluster
 
 Now apply the above file tomcat.yml
 
+Use master ip and port number to <ipaddress>:31284 to access the tomcat
+  
+
 I have a knowledge on Helm I have ued it for the Stolon application.
